@@ -1,13 +1,13 @@
-# 🎵 Music Store Analysis (SQL)
+## Music Store Analysis (SQL)
 
-## 📌 Overview
+## Overview
 This project analyzes a **Music Store Database** using SQL to find insights about customers,employees, and music genres.
 
-## 🛠️ Tools
+## Tools
 - MySQL
 - MySQL Workbench
 
-## 🔑 Key Analysis
+## Key Analysis
 - Top 5 customers by spending
 - Most popular genres & artists
 - Sales by country
